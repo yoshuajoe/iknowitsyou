@@ -1,0 +1,4 @@
+ikiy_app:
+    resource: "@IkiyAppBundle/Controller"
+    type:     annotation
+
